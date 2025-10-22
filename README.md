@@ -143,6 +143,6 @@ https://github.com/user-attachments/assets/08fff98b-073e-45d0-bb20-dc043487eaf7
 
 Uygulamanın canlı versiyonuna aşağıdaki linkten ulaşabilirsiniz:
 
-**[👉 EchoVerse AI Uygulamasına Gitmek İçin Tıklayın](https://your-streamlit-app-link.streamlit.app/)**
+**[👉 EchoVerse AI Uygulamasına Gitmek İçin Tıklayın](https://echoverseai.streamlit.app/)**
 
 
