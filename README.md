@@ -133,6 +133,10 @@ Uygulama arayüzü basit ve kullanıcı dostu olacak şekilde tasarlanmıştır.
 ---
 
 
+https://github.com/user-attachments/assets/08fff98b-073e-45d0-bb20-dc043487eaf7
+
+
+
 ---
 
 ### 🚀 Deploy Edilen Uygulama
